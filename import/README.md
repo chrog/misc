@@ -1,3 +1,3 @@
 # import
 
-Student and teacher import lists
+Import lists for students and teachers.
